@@ -1,3 +1,7 @@
+---
+layout: single
+title: 
+---
 # Introduction
 
 Craig has been Involved in the outdoors industry for a number of years, working in employed and voluntary roles.
