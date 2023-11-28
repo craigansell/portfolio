@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Courses"
-    url: /courses/
-  - title: "About"
-    url: /about/
-  - title: "Contact"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+#  - title: "Courses"
+#    url: /courses/
+#  - title: "About"
+#    url: /about/
+#  - title: "Contact"
+#   url: /year-archive/
+# - title: "Sample Collections"
+#   url: /collection-archive/
+# - title: "Sitemap"
+#   url: /sitemap/
