@@ -6,7 +6,7 @@ permalink: /aqt/
 ---
 
 LinkedIn Profile: [http://www.linkedin.com/in/craigansell](http://www.linkedin.com/in/craigansell)
-    
+  
 ## QUALIFICATIONS
 ### 2023
   - Royal Yachting Accocation (RYA) Marine Radio SRC Certification
@@ -19,6 +19,7 @@ LinkedIn Profile: [http://www.linkedin.com/in/craigansell](http://www.linkedin.c
   - Royal Yachting Accocation (RYA) Sailing Level 1
   - Mountain Training England (MTE) Mentor
   - First Aid at Work (FAW) with Catastrophic Bleeding Management
+
 ### 2022
   - Mountain Training Camping Leader
   - Inspection of PPE for Ropes Courses and Adventurous Industry
