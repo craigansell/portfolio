@@ -130,6 +130,7 @@
 
   @include breakpoint($large) {
     display: block;
+    min-width: 80px;
     width: auto;
     height: auto;
   }
