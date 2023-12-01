@@ -7,7 +7,7 @@ permalink: /
 
 Craig has been Involved in the outdoors industry for a number of years, working in employed and voluntary roles.
 
-- Mountain Training Profile: [https://mt.tahdah.me/profile/index/115179](https://mt.tahdah.me/profile/index/115179)
+- Mountain Training Profile: [115179](https://mt.tahdah.me/profile/index/115179)
 - Gold DofE Expedition Assessing
 - Outdoor Activity Instructor Insurance
 - Full Enhanced DBS
