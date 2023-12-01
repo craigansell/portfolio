@@ -5,7 +5,7 @@ title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
 
-LinkedIn Profile: [http://www.linkedin.com/in/craigansell](http://www.linkedin.com/in/craigansell)
+LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   
 ## QUALIFICATIONS
 ### 2023
@@ -91,7 +91,7 @@ LinkedIn Profile: [http://www.linkedin.com/in/craigansell](http://www.linkedin.c
   - Mountain Training Association (MTA) - Full Member
     
 ## OPEN UNIVERSITY OPENLEARN COURSES
-  OpenLearn Profile: [http://www.open.edu/openlearn/profiles/zx745920](http://www.open.edu/openlearn/profiles/zx745920)
+  OpenLearn Profile: [zx745920](http://www.open.edu/openlearn/profiles/zx745920)
 ### 2020
   - Managing virtual project teams (Level 3)
   - Workplace learning with coaching and mentoring (Level 3)
