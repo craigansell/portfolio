@@ -7,7 +7,7 @@ permalink: /aqt/
 
 LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
 
-## Course & Training Providor
+## Provider (Course / Training)
   - Mountain Training
     - Hill Skills
   - National Navigation Award Scheme (NNAS)
