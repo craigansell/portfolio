@@ -8,7 +8,7 @@ permalink: /
 Craig has been Involved in the outdoors industry for a number of years, working in employed and voluntary roles.
 
 - Mountain Training Profile: [115179](https://mt.tahdah.me/profile/index/115179)
-- Provider of Mountain Training Hill Skills, NNAS Bronze & Silver, PADI Emergency First Response
+- Provider of Mountain Training, National Navigation Award scheme (NNAS) and Emergency First Response
 - Gold DofE Expedition Assessing
 - Outdoor Activity Instructor Insurance
 - Full Enhanced DBS
