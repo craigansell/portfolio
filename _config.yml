@@ -120,7 +120,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "http://www.linkedin.com/in/craigansell"
     - label: "VentureBeyond"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://venturebeyond.uk"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
