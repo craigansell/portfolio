@@ -100,6 +100,8 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
 ## PROFESSIONAL ASSOCIATIONS
   - The British Mountaineering Council (BMC) - Member
   - Mountain Training Association (MTA) - Full Member
+  - The Royal Yahting Accociation (RYA) - Full Member
+  - British Canoeing (BC) - Full Member
     
 ## OPEN UNIVERSITY OPENLEARN COURSES
   OpenLearn Profile: [zx745920](http://www.open.edu/openlearn/profiles/zx745920)
