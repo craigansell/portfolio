@@ -14,8 +14,8 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
     - Bonze Award
     - Silver Award
   - Emergency First Response
-      - Adult First Aid
-      - Pediatric First Aid
+      - Primary Care / Secondary Care
+      - Care for Children
       - Airborne Pathagen Awareness
   
 ## QUALIFICATIONS
