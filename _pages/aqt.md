@@ -21,6 +21,9 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
 ## QUALIFICATIONS
 ### 2023
   - Royal Yachting Accocation (RYA) Marine Radio SRC Certification
+  - Mountain Training How to create an Inclusive, Welcoming Environment for All Learners
+  - Mountain Training Making your Courses Inclusive and Accessible
+  - The North Face AllyShip in the Outdoors
   - Mountain Training Hill Skills Provider
   - Mountain Training Hill Skills Tutor
   - Royal Yachting Accocation (RYA) Safety Boat
