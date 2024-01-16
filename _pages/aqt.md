@@ -19,6 +19,9 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
       - Airborne Pathagen Awareness
   
 ## QUALIFICATIONS
+### 2024
+  - ERCA Refresher
+    
 ### 2023
   - Royal Yachting Association (RYA) Marine Radio SRC Certification
   - Mountain Training How to create an Inclusive, Welcoming Environment for All Learners
