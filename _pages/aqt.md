@@ -20,6 +20,7 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   
 ## QUALIFICATIONS
 ### 2024
+  - Climbing for All (Disability Awareness)
   - ERCA Refresher
     
 ### 2023
