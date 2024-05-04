@@ -20,6 +20,7 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   
 ## QUALIFICATIONS
 ### 2024
+  - CIMSPA and IOL - Sunguarding Acredited
   - Royal Yachting Association (RYA) Safe and Fun - Safeguarding Awareness
   - Climbing for All (Disability Awareness)
   - ERCA Refresher
