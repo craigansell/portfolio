@@ -100,6 +100,7 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   - NSPCC Child Protection in Education
 
 ### 2005
+  - NASAR SAR Technician Level 3
   - NEBOSH Level 3 Certificate in Occupational Health and Safety (NEBOSH General Certificate)
   - ROSPA Safety Inspectors Examination
   - NSPCC Keeping Children Safe Certificate
