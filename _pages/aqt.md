@@ -74,6 +74,9 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   - Food Hygiene Level 2
 
 ### 2018
+  - Mountain Training Hill and Moorland leader (HML)
+  - Mountain Training Climbing Wall Instructor (CWI) + Abseil (CWIA)
+  - ERCA Rescue
   - The Complete SEND Diploma (Levels 2, 3 & 4)
   - Mountain Training Foundation Coach Training
   - Child Protection in Sport and Leisure Level 2
