@@ -20,6 +20,12 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   
 ## QUALIFICATIONS
 ### 2024
+  - CPD - British Canoeing Mentoring eLearning
+  - CPD - British Canoeing Introduction to Disability Awareness eLearning
+  - CPD - British Canoeing Equality, Diversity and Inclusion eLearning
+  - CPD - British Canoeing EDI Inclusive Language eLearning
+  - CPD - British Canoeing Environmental Awareness eLearning
+  - CPD - British Canoeing Manual Handling eLearning
   - Wilderness Survival Crafts - 3 Day Bushcraft Competency Training
   - Mountain Training England (MTE) Mentor
   - CIMSPA and IOL - Sunguarding Acredited
