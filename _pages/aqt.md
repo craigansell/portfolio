@@ -20,6 +20,8 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   
 ## QUALIFICATIONS
 ### 2024
+  - CPD - British Canoeing Paddle Safer Provider elearning
+  - CPD - British Canoeing Instructor elearning
   - CPD - British Canoeing Mentoring eLearning
   - CPD - British Canoeing Introduction to Disability Awareness eLearning
   - CPD - British Canoeing Equality, Diversity and Inclusion eLearning
