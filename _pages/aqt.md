@@ -13,6 +13,8 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   - National Navigation Award Scheme (NNAS)
     - Bonze Award
     - Silver Award
+  - British Canoeing
+    - Paddle Safer
   - Emergency First Response
       - Primary Care / Secondary Care
       - Care for Children
