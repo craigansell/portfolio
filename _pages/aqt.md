@@ -15,6 +15,8 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
     - Silver Award
   - British Canoeing
     - Paddle Safer
+    - Paddle Start
+    - Paddle Discover
   - Emergency First Response
       - Primary Care / Secondary Care
       - Care for Children
@@ -22,6 +24,7 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   
 ## QUALIFICATIONS
 ### 2024
+  - CPD - Personal Performance Awards Provider eLearning
   - CPD - British Canoeing Paddle Safer Provider elearning
   - CPD - British Canoeing Instructor elearning
   - CPD - British Canoeing Mentoring eLearning
