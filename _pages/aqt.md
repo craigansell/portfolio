@@ -24,6 +24,7 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   
 ## QUALIFICATIONS
 ### 2024
+  - Mountain Training - Climbing Wall Development Instructor Training
   - CPD - Personal Performance Awards Provider eLearning
   - CPD - British Canoeing Paddle Safer Provider elearning
   - CPD - British Canoeing Instructor elearning
@@ -33,6 +34,7 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   - CPD - British Canoeing EDI Inclusive Language eLearning
   - CPD - British Canoeing Environmental Awareness eLearning
   - CPD - British Canoeing Manual Handling eLearning
+  - British Mountineering Council (BMC) FUNdementals 2
   - Wilderness Survival Crafts - 3 Day Bushcraft Competency Training
   - Mountain Training England (MTE) Mentor
   - CIMSPA and IOL - Sunguarding Acredited
@@ -92,6 +94,7 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   - ERCA Rescue
   - The Complete SEND Diploma (Levels 2, 3 & 4)
   - Mountain Training Foundation Coach Training
+  - British Mountineering Council (BMC) FUNdementals 1
   - Child Protection in Sport and Leisure Level 2
   - MAPPA Foundation Program Course, CPI Blue Card
 
