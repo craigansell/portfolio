@@ -107,6 +107,9 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   - CMI Level 3 NVQ Certificate in Management (QCF)
   - Advanced Level Apprenticeship in Management in the Business Skills Sector
 
+### 2011
+  - Mountain Training Rock Climbing Iinstructor (RCI) Training
+  - 
 ### 2010
   - Diploma in Teaching in the Lifelong Learning Sector (DTLLS Level 5 University Diploma)
 
