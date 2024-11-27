@@ -41,7 +41,7 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   - Royal Yachting Association (RYA) Safe and Fun - Safeguarding Awareness
   - Climbing for All (Disability Awareness)
   - ERCA Refresher
-    
+
 ### 2023
   - Royal Yachting Association (RYA) Marine Radio SRC Certification
   - Mountain Training How to create an Inclusive, Welcoming Environment for All Learners
@@ -67,7 +67,7 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   - Archery GB Instructor
   - Driver CPC for PCV's
   - Bus/Coach (D+E) Driving Licence
- 
+
 ### 2021
   - Minibus+Trailer (D1+E) Driving Licence
   - LCML Training
