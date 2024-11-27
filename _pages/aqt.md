@@ -109,7 +109,7 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
 
 ### 2011
   - Mountain Training Rock Climbing Iinstructor (RCI) Training
-  - 
+    
 ### 2010
   - Diploma in Teaching in the Lifelong Learning Sector (DTLLS Level 5 University Diploma)
 
