@@ -89,8 +89,8 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
 ### Health and Wellbeing
   - First Aid at Work (FAW) with Catastrophic Bleeding Management
   - Youth Work Level 3
-  - Safeguarding Children Level 3
   - Mental Health Awareness for Sports and Physical Activity
+  - Safeguarding Children Level 3
   - Child Protection in Sport and Leisure Level 2
   - NSPCC Child Protection in Education
   - NSPCC Keeping Children Safe Certificate
