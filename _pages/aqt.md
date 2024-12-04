@@ -80,7 +80,7 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   - Mountain Training - Making your Courses Inclusive and Accessible
   - The Complete SEND Diploma (Levels 2, 3 & 4)
   - Level 3 Diploma in Mentoring
-  - British Sign Language Level 1 & 2
+  - British Sign Language Level 1
   - Diploma in Teaching in the Lifelong Learning Sector (DTLLS Level 5 University Diploma)
   - CIEH Trainer for Heath and Safety, Manual Handling and COSH Awareness
   - Teach English as a Foreign Language (TEFL) Certificate of Completion (120hrs)
