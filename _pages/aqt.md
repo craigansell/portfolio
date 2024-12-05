@@ -24,7 +24,7 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
 ### Walking
   - Mountain Training - Hill and Moorland leader (HML)
   - DofE Gold Assessor
-  - DofE Award Varifier
+  - DofE Award Verifier
   - National Navigation Award Scheme - NNAS Tutor (Bronze and Silver)
   - Mountain Training - Hill Skills Tutor
   - Mountain Training - Camping Leader
