@@ -8,7 +8,7 @@ permalink: /
 Craig has been Involved in the outdoors industry for over 10 years, working in employed and voluntary roles.
 
 - Mountain Training Profile: [115179](https://mt.tahdah.me/profile/index/115179)
-- Provider for Mountain Training, National Navigation Award scheme (NNAS), British Canoeing and Emergency First Response
+- Provider for National Navigation Award scheme (NNAS), British Canoeing and Emergency First Response
 - Gold DofE Expedition Assessing
 - Hill and Moorland Leader (HML)
 - Climbing Wall Instructor + Abseil (CWIA)
