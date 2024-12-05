@@ -64,14 +64,12 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   - Royal Yachting Association (RYA) Sailing Level 2
   - Royal Yachting Association (RYA) Sailing Level 1
 
-### Driving
-  - Driver CPC for HGV's
-  - ALLMI Lorry Loader D1+D3+E
-  - LGV (C+E) Driving Licence
+### Aditional Outdoor Qualfications and Training
   - Archery GB Instructor
-  - Driver CPC for PCV's
-  - Bus/Coach (D+E) Driving Licence
-  - Minibus+Trailer (D1+E) Driving Licence
+  - Wilderness Survival Crafts - 3 Day Bushcraft Competency Training
+  - British Caving - LCML Training
+  - British Cycling - Mountain Bike Leader Training
+  - NASAR SAR Technician Level 3
 
 ### Education
   - Mountain Training - How to create an Inclusive, Welcoming Environment for All Learners
@@ -101,14 +99,16 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   - Food Hygiene Level 2
   - The North Face AllyShip in the Outdoors
   - MAPPA Foundation Program Course, CPI Blue Card
-
- ### Aditional Qualfications and Training
-  - Wilderness Survival Crafts - 3 Day Bushcraft Competency Training
-  - British Caving - LCML Training
-  - British Cycling - Mountain Bike Leader Training
-  - NASAR SAR Technician Level 3
   - National Citizen Service (NCS) Mentor; Introduction, Safeguarding, Mental Health Awareness, Program Safety & Critical Incident Response
- 
+
+### Driving
+  - Driver CPC for HGV's
+  - ALLMI Lorry Loader D1+D3+E
+  - LGV (C+E) Driving Licence
+  - Driver CPC for PCV's
+  - Bus/Coach (D+E) Driving Licence
+  - Minibus+Trailer (D1+E) Driving Licence
+
  ### Health, Safety and Management
   - EDI Level 3 Certificate in Management Principles
   - CMI Level 3 NVQ Certificate in Management (QCF)
