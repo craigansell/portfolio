@@ -8,8 +8,6 @@ permalink: /aqt/
 LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
 
 ## Provider (Course / Training)
-  - Mountain Training
-    - Hill Skills
   - National Navigation Award Scheme (NNAS)
     - Bonze Award
     - Silver Award
