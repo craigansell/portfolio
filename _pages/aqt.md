@@ -109,7 +109,7 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   - Bus/Coach (D+E) Driving Licence
   - Minibus+Trailer (D1+E) Driving Licence
 
- ### Health, Safety and Management
+### Health, Safety and Management
   - EDI Level 3 Certificate in Management Principles
   - CMI Level 3 NVQ Certificate in Management (QCF)
   - Advanced Level Apprenticeship in Management in the Business Skills Sector
