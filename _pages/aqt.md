@@ -71,7 +71,7 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   - British Cycling - Mountain Bike Leader Training
   - NASAR SAR Technician Level 3
 
-### Education
+### Teaching
   - Mountain Training - How to create an Inclusive, Welcoming Environment for All Learners
   - Mountain Training - Making your Courses Inclusive and Accessible
   - The Complete SEND Diploma (Levels 2, 3 & 4)
