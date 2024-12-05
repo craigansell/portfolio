@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 title: Aditional Qualifications and Training
-permalink: /aqt/
+permalink: /aqt_org/
 ---
 
 LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
