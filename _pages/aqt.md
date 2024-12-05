@@ -36,7 +36,7 @@ LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
   - British Mountineering Council (BMC) FUNdementals 2
   - British Mountineering Council (BMC) FUNdementals 1
   - Mountain Training - Foundation Coach Training
-  - NICAS Tier 1
+  - NICAS Tutor/Instructor
   - Mountain Training - Climbing Wall Instructor (CWI) + Abseil (CWIA)
   - Mountain Training - Rock Climbing Iinstructor (RCI) Training
   - Mountain Training England (MTE) Mentor
