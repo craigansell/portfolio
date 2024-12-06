@@ -68,6 +68,7 @@ permalink: /aqt/
   - Wilderness Survival Crafts - 3 Day Bushcraft Competency Training
   - British Caving - LCML Training
   - British Cycling - Mountain Bike Leader Training
+  - Entrust Outdoors - Axe Throwing (internal sign off)
   - NASAR SAR Technician Level 3
 
 ### Teaching
