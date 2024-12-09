@@ -4,7 +4,7 @@ author_profile: true
 title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
-*This page was last updated 06/12/2024*
+*This page was last updated 09/12/2024*
 
 ## Provider (Course / Training)
   - National Navigation Award Scheme (NNAS)
@@ -30,6 +30,7 @@ permalink: /aqt/
   - Mountain Training - Mentor for HML and LL
 
 ### Climbing
+  - Mountain Training - Development Coach
   - Mountain Training - Climbing Wall Development Instructor Training
   - Climbing for All (Disability Awareness)
   - British Mountineering Council (BMC) FUNdementals 2
