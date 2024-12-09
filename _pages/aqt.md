@@ -53,7 +53,8 @@ permalink: /aqt/
   - CPD - British Canoeing EDI Inclusive Language eLearning
   - CPD - British Canoeing Environmental Awareness eLearning
   - CPD - British Canoeing Manual Handling eLearning
-  - British Canoeing Paddlesport Instructor
+  - British Canoeing - Paddlesport Instructor
+  - British Canoeing - Paddlesport Safety and Rescue
   - Royal Yachting Association (RYA) Safe and Fun - Safeguarding Awareness
   - Royal Yachting Association (RYA) Marine Radio SRC Certification
   - Royal Yachting Association (RYA) Safety Boat
