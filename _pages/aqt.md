@@ -79,7 +79,8 @@ permalink: /aqt/
   - British Sign Language Level 1
   - Diploma in Teaching in the Lifelong Learning Sector (DTLLS Level 5 University Diploma)
   - CIEH Trainer for Heath and Safety, Manual Handling and COSH Awareness
-  - Teach English as a Foreign Language (TEFL) Certificate of Completion (120hrs)
+  - Teaching English as a Foreign Language (TEFL) Certificate of Completion (120hrs)
+  - Teaching English to Speakers of Other Languages (TESOL) Certificate of Completion (120hrs)
   - CIEH Professional Trainer Certificate
 
 ### Health and Wellbeing
@@ -87,7 +88,7 @@ permalink: /aqt/
   - Youth Work Level 3
   - Mental Health Awareness for Sports and Physical Activity
   - Safeguarding Children Level 3
-  - Child Protection in Sport and Leisure Level 2
+  - EduCare Child Protection in Sport and Active Leisure Level 2
   - NSPCC Child Protection in Education
   - NSPCC Keeping Children Safe Certificate
   - CIMSPA and IOL - Sunguarding Acredited
