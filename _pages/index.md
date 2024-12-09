@@ -16,8 +16,7 @@ Craig has been Involved in the outdoors industry for over 10 years, working in e
 - Archery GB
 - Bushcraft
 - ERCA (+Rescue)
-- Mentoring
-- Coaching
+- Coaching and Mentoring
 - Outdoor Activity Instructor Insurance
 - Full Enhanced DBS
 - Adaptable for all abilities (SEN and Disability) and experiences
