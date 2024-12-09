@@ -27,7 +27,7 @@ permalink: /aqt/
   - National Navigation Award Scheme - NNAS Tutor (Bronze and Silver)
   - Mountain Training - Hill Skills Tutor
   - Mountain Training - Camping Leader
-  - Mountain Training England (MTE) Mentor
+  - Mountain Training - Mentor for HML and LL
 
 ### Climbing
   - Mountain Training - Climbing Wall Development Instructor Training
@@ -38,7 +38,6 @@ permalink: /aqt/
   - NICAS Tutor/Instructor
   - Mountain Training - Climbing Wall Instructor (CWI) + Abseil (CWIA)
   - Mountain Training - Rock Climbing Iinstructor (RCI) Training
-  - Mountain Training England (MTE) Mentor
   - ERCA - Generic Rescue
   - ERCA - Highropes Instructor
   - Inspection of PPE for Ropes Courses and Adventurous Industry
@@ -74,6 +73,7 @@ permalink: /aqt/
 ### Teaching
   - Mountain Training - How to create an Inclusive, Welcoming Environment for All Learners
   - Mountain Training - Making your Courses Inclusive and Accessible
+  - Mountain Training - Mentor Training Program
   - The Complete SEND Diploma (Levels 2, 3 & 4)
   - Level 3 Diploma in Mentoring
   - British Sign Language Level 1
