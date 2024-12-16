@@ -14,7 +14,7 @@ permalink: /aqt/
     - Paddle Safer
     - Paddle Start
     - Paddle Discover
-  - Emergency First Response
+  - Emergency First Response (PADI)
       - Primary Care / Secondary Care
       - Care for Children
       - Airborne Pathagen Awareness
