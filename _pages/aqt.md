@@ -6,7 +6,7 @@ permalink: /aqt/
 ---
 *This page was last updated 09/12/2024*
 
-## Provider (Course / Training)
+## Training Provider For
   - National Navigation Award Scheme (NNAS)
     - Bonze Award
     - Silver Award
