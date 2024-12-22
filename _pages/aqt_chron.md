@@ -1,13 +1,11 @@
 ---
 layout: single
 author_profile: true
-title: Aditional Qualifications and Training
-permalink: /aqt_cron/
+title: Aditional Qualifications and Training in Chronological Order
+permalink: /aqt_chron/
 ---
 
-LinkedIn Profile: [craigansell](http://www.linkedin.com/in/craigansell)
-
-## Training Provider (Course / Training)
+## Training Provider For
   - National Navigation Award Scheme (NNAS)
     - Bonze Award
     - Silver Award
