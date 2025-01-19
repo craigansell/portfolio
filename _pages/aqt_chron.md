@@ -19,6 +19,10 @@ permalink: /aqt_chron/
       - Airborne Pathagen Awareness
   
 ## QUALIFICATIONS
+### 2025
+  - DofE Foundation Pathway
+  - DofE Foundation Pathway in Scouting
+
 ### 2024
   - Mountain Training - Climbing Wall Development Instructor Training
   - Mountain Training - Development Coach
