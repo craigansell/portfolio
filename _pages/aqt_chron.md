@@ -20,6 +20,7 @@ permalink: /aqt_chron/
   
 ## QUALIFICATIONS
 ### 2025
+  - Makaton Level 1
   - DofE Foundation Pathway
   - DofE Foundation Pathway in Scouting
 
