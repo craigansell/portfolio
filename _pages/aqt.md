@@ -80,6 +80,7 @@ permalink: /aqt/
   - Mountain Training - Mentor Training Program
   - The Complete SEND Diploma (Levels 2, 3 & 4)
   - Level 3 Diploma in Mentoring
+  - Makaton level 1
   - British Sign Language Level 1
   - Diploma in Teaching in the Lifelong Learning Sector (DTLLS Level 5 University Diploma)
   - CIEH Trainer for Heath and Safety, Manual Handling and COSH Awareness
