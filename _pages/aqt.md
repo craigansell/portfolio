@@ -87,6 +87,9 @@ permalink: /aqt/
   - Teaching English as a Foreign Language (TEFL) Certificate of Completion (120hrs)
   - Teaching English to Speakers of Other Languages (TESOL) Certificate of Completion (120hrs)
   - CIEH Professional Trainer Certificate
+  - Emergency First Response Instructor Course
+  - Emergency First Response (EFR) Airborne Pathogen Awareness Instructor
+
 
 ### Health and Wellbeing
   - First Aid at Work (FAW) with Catastrophic Bleeding Management
@@ -97,8 +100,6 @@ permalink: /aqt/
   - NSPCC Child Protection in Education
   - NSPCC Keeping Children Safe Certificate
   - CIMSPA and IOL - Sunguarding Acredited
-  - Emergency First Response Instructor Course
-  - Emergency First Response (EFR) Airborne Pathogen Awareness Instructor
   - COVID-19 - Psychological First Aid
   - Coronavirus (COVID-19) Awareness Course
   - Level 3 HACCP Training
