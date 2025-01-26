@@ -4,7 +4,7 @@ author_profile: true
 title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
-*This page was last updated 16/12/2024*
+*This page was last updated 21/01/2025*
 
 ## Training Provider For
   - National Navigation Award Scheme (NNAS)
