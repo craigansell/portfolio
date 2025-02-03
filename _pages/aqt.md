@@ -4,7 +4,7 @@ author_profile: true
 title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
-*This page was last updated 21/01/2025*
+*This page was last updated 03/02/2025*
 
 ## Training Provider For
   - National Navigation Award Scheme (NNAS)
@@ -78,6 +78,7 @@ permalink: /aqt/
   - Mountain Training - How to create an Inclusive, Welcoming Environment for All Learners
   - Mountain Training - Making your Courses Inclusive and Accessible
   - Mountain Training - Mentor Training Program
+  - SENCO - Special Educational Needs Coordination (Level 5)
   - The Complete SEND Diploma (Levels 2, 3 & 4)
   - Level 3 Diploma in Mentoring
   - Makaton level 1
