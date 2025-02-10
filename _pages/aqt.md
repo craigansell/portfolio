@@ -4,7 +4,7 @@ author_profile: true
 title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
-*This page was last updated 03/02/2025*
+*This page was last updated 10/02/2025*
 
 ## Training Provider For
   - National Navigation Award Scheme (NNAS)
@@ -132,6 +132,7 @@ permalink: /aqt/
   - Mountain Training Association (MTA) - Full Member
   - The Royal Yahting Accociation (RYA) - Full Member
   - British Canoeing (BC) - Full Member
+  - Society for Education and Training - Full Member (MSET)
     
 ## OPEN UNIVERSITY OPENLEARN COURSES
   OpenLearn Profile: [zx745920](http://www.open.edu/openlearn/profiles/zx745920)
