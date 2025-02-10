@@ -21,6 +21,7 @@ Craig has been Involved in the outdoors industry for over 10 years, working in e
 - Full Enhanced DBS
 - Adaptable for all abilities (SEN and Disability) and experiences
 - Full Car, Motorcycle, HGV (C+E), Bus/Coach (D+E), Minibus+Trailer (D1+E) and Driver CPD
+- Society for Education and Training - Professional Member (MSET)
 
 **Contact for freelance guiding or coaching work in hillwalking, climbing, navigation skills, Paddlesports, DofE training or assessing and driving work**
 
