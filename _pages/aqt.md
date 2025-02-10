@@ -28,6 +28,7 @@ permalink: /aqt/
   - Mountain Training - Hill Skills Tutor
   - Mountain Training - Camping Leader
   - Mountain Training - Mentor for HML and LL
+  - Mountain Training - Remote Supervision
   - DofE Foundation Pathway
   - DofE Foundation Pathway in Scouting
 
