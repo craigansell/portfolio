@@ -38,6 +38,7 @@ permalink: /aqt_chron/
   - CPD - British Canoeing EDI Inclusive Language eLearning
   - CPD - British Canoeing Environmental Awareness eLearning
   - CPD - British Canoeing Manual Handling eLearning
+  - Mountain Training - Remote Supervision
   - Wilderness Survival Crafts - 3 Day Bushcraft Competency Training
   - Mountain Training England (MTE) Mentor
   - CIMSPA and IOL - Sunguarding Acredited
