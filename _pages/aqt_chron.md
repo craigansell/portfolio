@@ -63,6 +63,7 @@ permalink: /aqt_chron/
   - Royal Yachting Association (RYA) Sailing Level 1
   - Mountain Training England (MTE) Mentor
   - First Aid at Work (FAW) with Catastrophic Bleeding Management
+  - Drone pilot flyer licence
 
 ### 2022
   - Mountain Training Camping Leader
