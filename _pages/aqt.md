@@ -33,7 +33,7 @@ permalink: /aqt/
   - DofE Foundation Pathway in Scouting
 
 ### Climbing
-  - Mountain Training - Development Coach
+  - Mountain Training - Development Coach Training
   - Mountain Training - Climbing Wall Development Instructor Training
   - Climbing for All (Disability Awareness)
   - British Mountineering Council (BMC) FUNdementals 2
