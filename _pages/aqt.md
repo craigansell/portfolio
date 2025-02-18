@@ -27,7 +27,7 @@ permalink: /aqt/
   - National Navigation Award Scheme - NNAS Tutor (Bronze and Silver)
   - Mountain Training - Hill Skills Tutor
   - Mountain Training - Camping Leader
-  - Mountain Training - Mentor for HML and LL
+  - Mountain Training - Mentor for Hillwalking and Climbing (HML, LL, CWI)
   - Mountain Training - Remote Supervision
   - DofE Foundation Pathway
   - DofE Foundation Pathway in Scouting
