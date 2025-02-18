@@ -27,7 +27,7 @@ permalink: /aqt_chron/
 
 ### 2024
   - Mountain Training - Climbing Wall Development Instructor Training
-  - Mountain Training - Development Coach
+  - Mountain Training - Development Coach Training
   - British Mountineering Council (BMC) FUNdementals 2
   - CPD - Personal Performance Awards Provider eLearning
   - CPD - British Canoeing Paddle Safer Provider elearning
