@@ -30,7 +30,7 @@ permalink: /aqt/
   - Mountain Training - Mentor for Hillwalking and Climbing (HML, LL, CWI)
   - Mountain Training - Remote Supervision
   - DofE Foundation Pathway
-  - DofE Foundation Pathway in Scouting
+  - The Delivering the DofE Pathway
 
 ### Climbing
   - Mountain Training - Development Coach Training
