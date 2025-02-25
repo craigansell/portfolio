@@ -22,8 +22,8 @@ permalink: /aqt_chron/
 ### 2025
   - Special Educational Needs Coordination (SENCO) @ Level 5
   - Makaton Level 1
-  - DofE Foundation Pathway
-  - DofE Foundation Pathway in Scouting
+  - The DofE Foundation Pathway
+  - The Delivering the DofE Pathway
 
 ### 2024
   - Mountain Training - Climbing Wall Development Instructor Training
