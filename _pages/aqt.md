@@ -4,7 +4,7 @@ author_profile: true
 title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
-*This page was last updated 25/02/2025*
+*This page was last updated 26/02/2025*
 
 ## Training Provider For
   - National Navigation Award Scheme (NNAS)
@@ -29,6 +29,7 @@ permalink: /aqt/
   - Mountain Training - Camping Leader
   - Mountain Training - Mentor for Hillwalking and Climbing (HML, LL, CWI)
   - Mountain Training - Remote Supervision
+  - DofE Manager Pathway
   - DofE Foundation Pathway
   - The Delivering the DofE Pathway
 
