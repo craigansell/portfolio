@@ -22,6 +22,7 @@ permalink: /aqt_chron/
 ### 2025
   - Special Educational Needs Coordination (SENCO) @ Level 5
   - Makaton Level 1
+  - DofE Manager Pathway
   - The DofE Foundation Pathway
   - The Delivering the DofE Pathway
 
