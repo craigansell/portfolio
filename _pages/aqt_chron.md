@@ -20,6 +20,7 @@ permalink: /aqt_chron/
   
 ## QUALIFICATIONS
 ### 2025
+  - RidgeGear - Adventure PPE Inspector
   - Special Educational Needs Coordination (SENCO) @ Level 5
   - Makaton Level 1
   - DofE Manager Pathway
