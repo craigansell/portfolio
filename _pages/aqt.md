@@ -4,7 +4,7 @@ author_profile: true
 title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
-*This page was last updated 26/02/2025*
+*This page was last updated 27/02/2025*
 
 ## Training Provider For
   - National Navigation Award Scheme (NNAS)
@@ -47,6 +47,7 @@ permalink: /aqt/
   - ERCA - Highropes Instructor
   - Inspection of PPE for Ropes Courses and Adventurous Industry
   - Operational Inspection and Maintenance Course (HighRopes)
+  - RidgeGear - Adventure PPE Inspector
 
 ### Marine
   - CPD - Personal Performance Awards Provider eLearning
