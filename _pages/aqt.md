@@ -4,7 +4,7 @@ author_profile: true
 title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
-*This page was last updated 27/02/2025*
+*This page was last updated 08/03/2025*
 
 ## Training Provider For
   - National Navigation Award Scheme (NNAS)
@@ -131,10 +131,12 @@ permalink: /aqt/
     
 ## PROFESSIONAL ASSOCIATIONS
   - The British Mountaineering Council (BMC) - Member
-  - Mountain Training Association (MTA) - Full Member
-  - The Royal Yahting Accociation (RYA) - Full Member
-  - British Canoeing (BC) - Full Member
-  - Society for Education and Training - Full Member (MSET)
+  - Mountain Training Association (MTA) - Member
+  - The Royal Yahting Accociation (RYA) - Member
+  - British Canoeing (BC) - Member
+  - Society for Education and Training (SET) - Member (MSET) AD010790
+  - Institute of Leadership (IOL) - Member (MIoL) 20056456 - Expired
+  - Institution of Occupational Safety and Health (IOSH) - Techncal Member (TechIOSH) - 213136 - Expired
     
 ## OPEN UNIVERSITY OPENLEARN COURSES
   OpenLearn Profile: [zx745920](http://www.open.edu/openlearn/profiles/zx745920)
