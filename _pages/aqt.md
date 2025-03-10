@@ -4,7 +4,7 @@ author_profile: true
 title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
-*This page was last updated 08/03/2025*
+*This page was last updated 10/03/2025*
 
 ## Training Provider For
   - National Navigation Award Scheme (NNAS)
@@ -134,6 +134,7 @@ permalink: /aqt/
   - Mountain Training Association (MTA) - Member
   - The Royal Yahting Accociation (RYA) - Member
   - British Canoeing (BC) - Member
+  - Institute of Outdoor Learning (IOL) - Member 14619
   - Society for Education and Training (SET) - Member (MSET) AD010790
   - Institute of Leadership (IOL) - Member (MIoL) 20056456 - Expired
   - Institution of Occupational Safety and Health (IOSH) - Techncal Member (TechIOSH) - 213136 - Expired
