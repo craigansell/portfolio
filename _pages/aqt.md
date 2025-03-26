@@ -4,7 +4,7 @@ author_profile: true
 title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
-*This page was last updated 10/03/2025*
+*This page was last updated 26/03/2025*
 
 ## Training Provider For
   - National Navigation Award Scheme (NNAS)
@@ -107,7 +107,7 @@ permalink: /aqt/
   - COVID-19 - Psychological First Aid
   - Coronavirus (COVID-19) Awareness Course
   - Level 3 HACCP Training
-  - Food Hygiene Level 2
+  - Food Hygiene Level 2 - Renewed March 2025
   - The North Face AllyShip in the Outdoors
   - MAPPA Foundation Program Course, CPI Blue Card
   - National Citizen Service (NCS) Mentor; Introduction, Safeguarding, Mental Health Awareness, Program Safety & Critical Incident Response
