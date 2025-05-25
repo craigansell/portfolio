@@ -5,7 +5,7 @@ author_profile: true
 permalink: /
 ---
 
-Craig has been Involved in the outdoors industry for over 10 years, working in employed and voluntary roles.
+Craig has been Involved in the outdoors industry for over 20 years, working in employed and voluntary roles.
 
 - Mountain Training Profile: [115179](https://mt.tahdah.me/profile/index/115179)
 - Training Provider for National Navigation Award scheme (NNAS), British Canoeing and Emergency First Response (PADI) Courses
@@ -25,8 +25,8 @@ Craig has been Involved in the outdoors industry for over 10 years, working in e
 
 **Contact for freelance guiding or coaching work in hillwalking, climbing, navigation skills, Paddlesports, DofE training or assessing and driving work**
 
+To check my availability click [HERE](https://calendar.google.com/calendar/embed?src=d4cdaa71da9577fc4fd32c4db94600722522d867f8116abdf9a63b612f20e8f4%40group.calendar.google.com&ctz=Europe%2FLondon) (opens up Google Calender)
+
 Email: <a href="mailto:craig.ansell@gmail.com">craig.ansell@gmail.com</a>
 
 Aditional Qualifications, Certificates and Training can be seen by clicking the link at the top of the page or by clicking [HERE](/aqt/)
-
-To check my availability click [HERE](https://calendar.google.com/calendar/embed?src=d4cdaa71da9577fc4fd32c4db94600722522d867f8116abdf9a63b612f20e8f4%40group.calendar.google.com&ctz=Europe%2FLondon) (opens up Google Calender)
