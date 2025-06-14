@@ -11,7 +11,7 @@ Craig has been Involved in the outdoors industry for over 20 years, working in e
 - Training Provider for National Navigation Award scheme (NNAS), British Canoeing and Emergency First Response (PADI) Courses
 - DofE Expedition Training & Assessing (Bronze, Silver & Gold)
 - Hill and Moorland Leader (HML)
-- Climbing Wall Instructor + Abseil (CWIA)
+- Climbing Wall Instructor (CWI) + Abseil (CWIA)
 - Coaching and Mentoring (Climbing and Hillwalking)
 - Paddlesport Instructor
 - Archery GB
