@@ -20,6 +20,7 @@ permalink: /aqt_chron/
   
 ## QUALIFICATIONS
 ### 2025
+  - Community First Aid and the citizenAID® system
   - NSRA - YPS Tutors Course
   - RidgeGear - Adventure PPE Inspector
   - Special Educational Needs Coordination (SENCO) @ Level 5
