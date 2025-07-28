@@ -4,7 +4,7 @@ author_profile: true
 title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
-*This page was last updated 25/07/2025*
+*This page was last updated 28/07/2025*
 
 ## Training Provider For
   - National Navigation Award Scheme (NNAS)
@@ -181,3 +181,28 @@ permalink: /aqt/
   - COVID-19 Mass Gatherings Risk Assessment Training
   - COVID-19: How to put on and remove personal protective equipment (PPE)
   - Infection Prevention and Control (IPC) for COVID-19 Virus
+
+## Historical Employment
+
+- Freelance - Freelance Coach Driver
+- DixonsCarphone - Site Safety Officer, Technical Manager, Senior Technical Support
+Carphone Warehouse - Site Safety Officer, Senior IT Engineer (Network, Programming, Security etc), Senior Development Engineer, Mobile Phone Repair Engineer
+- Tandy - Technical Support, Senior Electronics Repair Engineer
+- Automatic Transmission Parts - Engineering Toolmaker
+- Family Business - Engineering Toolmaker and CNC Programmer
+- Royal Ordnance Specialty Metals - Senior Engineering Toolmaker, Apprentice Engineering Toolmaker
+
+## Historical Voluntary Roles
+- Scouts - District Explorer Scout Commissioner (DESC), District COVID Advisor/Approver, District Training Advisor, District Skills Instructor, Explorer Scout Leader, Assistant Explorer Scout Leader
+- St. John Ambulance Ambulance - Corporal, Ambulance Crew/Driver, First Aider, Cadet leader
+- British Red Cross - Public First Aider
+- Radio Amateur Emergency Network (RAYNET) - Member
+- Staffordshire Emergency Planning - Member
+
+## Historical Training and Qualifications
+- St. John Ambulance - Ambulance Aid Level 2, Ambulance Driving, Medical Gasses Administrator, Patient Handling, Casualty Handling, First Aider, Walking Leader
+- British Red Cross - Public First Aid
+- CPW - Various Mobile Phone Repair Training
+- Electronic Engineering Level 3
+- Diploma in Computer Repair
+
