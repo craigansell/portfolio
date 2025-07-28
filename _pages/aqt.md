@@ -188,7 +188,7 @@ permalink: /aqt/
 - DixonsCarphone - Site Safety Officer, Technical Manager, Senior Technical Support
 - Carphone Warehouse - Site Safety Officer, Senior IT Engineer (Network, Programming, Security etc), Senior Development Engineer, Mobile Phone Repair Engineer
 - Tandy UK - Technical Support, Senior Electronics Repair Engineer
-- Automatic Transmission Parts - Engineering Toolmaker
+- Automatic Transmission Parts (ATP) - Engineering Toolmaker
 - Family Business - Engineering Toolmaker and CNC Programmer
 - Royal Ordnance Specialty Metals - Senior Engineering Toolmaker, Apprentice Engineering Toolmaker
 
