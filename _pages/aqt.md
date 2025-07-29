@@ -108,8 +108,6 @@ permalink: /aqt/
   - CIMSPA and IOL - Sunguarding Acredited
   - COVID-19 - Psychological First Aid
   - Coronavirus (COVID-19) Awareness Course
-  - Level 3 HACCP Training
-  - Food Hygiene Level 2 - Renewed March 2025
   - The North Face AllyShip in the Outdoors
   - MAPPA Foundation Program Course, CPI Blue Card
   - National Citizen Service (NCS) Mentor; Introduction, Safeguarding, Mental Health Awareness, Program Safety & Critical Incident Response
@@ -123,13 +121,13 @@ permalink: /aqt/
   - Minibus+Trailer (D1+E) Driving Licence
 
 ### Health, Safety and Management
+  - Food Hygiene Level 2 - Renewed March 2025
+  - Level 3 HACCP Training
   - EDI Level 3 Certificate in Management Principles
   - CMI Level 3 NVQ Certificate in Management (QCF)
   - Advanced Level Apprenticeship in Management in the Business Skills Sector
   - NEBOSH Level 3 Certificate in Occupational Health and Safety (NEBOSH General Certificate)
   - ROSPA Safety Inspectors Examination
-
-*Other Qualifications and Training details available on request*
     
 ## PROFESSIONAL ASSOCIATIONS
   - The British Mountaineering Council (BMC) - Member
