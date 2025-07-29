@@ -97,6 +97,8 @@ permalink: /aqt/
 
 
 ### Health and Wellbeing
+  - Type 1 Diabetes Awareness in Secondary School
+  - Type 1 Diabetes Awareness in Primary School
   - Community First Aid and the citizenAID® system
   - First Aid at Work (FAW) with Catastrophic Bleeding Management
   - Youth Work Level 3
