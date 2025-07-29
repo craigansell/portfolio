@@ -189,7 +189,7 @@ permalink: /aqt/
 - Carphone Warehouse - Site Safety Officer, Senior IT Engineer (Network, Programming, Security etc), Senior Development Engineer, Mobile Phone Repair Engineer
 - Tandy UK - Technical Support, Senior Electronics Repair Engineer
 - Automatic Transmission Parts (ATP) - Engineering Toolmaker
-- Family Business - Engineering Toolmaker and CNC Programmer
+- Walford Engineering - Workshop Supervisor, Engineering Toolmaker and CNC Programmer
 - Royal Ordnance Specialty Metals - Senior Engineering Toolmaker, Apprentice Engineering Toolmaker
 
 ## Historical Voluntary Roles
@@ -201,8 +201,24 @@ permalink: /aqt/
 
 ## Historical Training and Qualifications
 - St. John Ambulance - Ambulance Aid Level 2, Ambulance Driving, Medical Gasses Administrator, Patient Handling, Casualty Handling, First Aider, Walking Leader
-- British Red Cross - Public First Aid
+- The British Red Cross - Basic First Aid, Administer First Aid, Bodyworks, Automated External Deliberator,
+Outdoor First Aid
 - CPW - Various Mobile Phone Repair Training
-- Electronic Engineering Level 3
+- Society of Cable Telecommunication Engineers - Accredited Service Technician and Accredited Installer
+- Diploma in Electronic Engineering
+- C & G 224 Parts 1 & 2
+- N.V.Q. Level 2 Engineering Electronics
+- EnTra Electrical Engineering Manufacture (Foundation)
+- NVQ Level 2 in Engineering Manufacture (foundation)
+- C & G 201, C & G Level 2 in Communication Skills
+- YTS Certificate of Achievement in Engineering
+- C & G Level 1 in Communication Skills
+- C & G Basic Engineering Competence’s
+- EITB Basic Training Part 1 & Part 2
 - Diploma in Computer Repair
+- Electra Technologies UK (CompTIA) - A+ 2001, Network+, MCSE 2000 (Windows NT4 / 2000 Track), N.V.Q.
+- Level 1 & 2 in Novell NetWare v 3.12
+- Fire Queen - Fire Warden Training
+- Powell Associates - ISO 9001/2000 Training
+
 
