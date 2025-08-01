@@ -4,7 +4,7 @@ author_profile: true
 title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
-*This page was last updated 29/07/2025*
+*This page was last updated 01/08/2025*
 
 ## Training Provider For
   - National Navigation Award Scheme (NNAS)
@@ -18,6 +18,8 @@ permalink: /aqt/
       - Primary Care / Secondary Care
       - Care for Children
       - Airborne Pathagen Awareness
+   - citizenAID
+      - 
   
 ## QUALIFICATIONS
 ### Walking
@@ -97,6 +99,7 @@ permalink: /aqt/
 
 
 ### Health and Wellbeing
+  - citizenAID Instructor
   - Type 1 Diabetes Awareness in Secondary School
   - Type 1 Diabetes Awareness in Primary School
   - Community First Aid and the citizenAID® system
