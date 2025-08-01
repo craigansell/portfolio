@@ -19,7 +19,7 @@ permalink: /aqt/
       - Care for Children
       - Airborne Pathagen Awareness
    - citizenAID
-      - 
+      - Instructor
   
 ## QUALIFICATIONS
 ### Walking
