@@ -4,7 +4,7 @@ author_profile: true
 title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
-*This page was last updated 01/08/2025*
+*This page was last updated 22/08/2025*
 
 ## Training Provider For
   - National Navigation Award Scheme (NNAS)
@@ -99,6 +99,7 @@ permalink: /aqt/
 
 
 ### Health and Wellbeing
+  - Allergy & Anaphylaxis Training for Schools
   - citizenAID Instructor
   - Type 1 Diabetes Awareness in Secondary School
   - Type 1 Diabetes Awareness in Primary School
