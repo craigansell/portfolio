@@ -20,6 +20,8 @@ permalink: /aqt_chron/
   
 ## QUALIFICATIONS
 ### 2025
+  - Designated Safeguarding Lead (Level 3)
+  - Allergy & Anaphylaxis Training for Schools
   - Community First Aid and the citizenAID® system
   - NSRA - YPS Tutors Course
   - RidgeGear - Adventure PPE Inspector
