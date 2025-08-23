@@ -22,6 +22,9 @@ permalink: /aqt_chron/
 ### 2025
   - Designated Safeguarding Lead (Level 3)
   - Allergy & Anaphylaxis Training for Schools
+  - citizenAID Instructor
+  - Type 1 Diabetes Awareness in Secondary School
+  - Type 1 Diabetes Awareness in Primary School
   - Community First Aid and the citizenAID® system
   - NSRA - YPS Tutors Course
   - RidgeGear - Adventure PPE Inspector
