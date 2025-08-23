@@ -97,7 +97,6 @@ permalink: /aqt/
   - Emergency First Response Instructor Course
   - Emergency First Response (EFR) Airborne Pathogen Awareness Instructor
 
-
 ### Health and Wellbeing
   - Designated Safeguarding Lead (Level 3)
   - Allergy & Anaphylaxis Training for Schools
