@@ -36,6 +36,7 @@ permalink: /aqt/
   - The Delivering the DofE Pathway
 
 ### Climbing
+  - Impact - Route Setting Essentials
   - Mountain Training - Development Coach Training
   - Mountain Training - Climbing Wall Development Instructor Training
   - Climbing for All (Disability Awareness)
