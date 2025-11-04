@@ -20,6 +20,7 @@ permalink: /aqt_chron/
   
 ## QUALIFICATIONS
 ### 2025
+  - Cytech - Technical one - theory
   - Impact - Route Setting Essentials
   - Designated Safeguarding Lead (Level 3)
   - Allergy & Anaphylaxis Training for Schools
