@@ -73,6 +73,7 @@ permalink: /aqt/
   - Royal Yachting Association (RYA) Sailing Level 1
 
 ### Aditional Outdoor Qualfications and Training
+  - Cytech - Technical one - theory
   - NSRA - YPS Tutors Course
   - Archery GB Instructor
   - Wilderness Survival Crafts - 3 Day Bushcraft Competency Training
