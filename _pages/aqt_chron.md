@@ -20,6 +20,7 @@ permalink: /aqt_chron/
   
 ## QUALIFICATIONS
 ### 2025
+  - Access Sport - Neurodivergence Inclusion in Archery Workshop
   - Cytech - Technical one - theory
   - Impact - Route Setting Essentials
   - Designated Safeguarding Lead (Level 3)
