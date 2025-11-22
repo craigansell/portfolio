@@ -25,15 +25,11 @@ permalink: /aqt/
 ### Walking
   - Mountain Training - Hill and Moorland leader (HML)
   - DofE Gold Assessor
-  - DofE Award Verifier
   - National Navigation Award Scheme - NNAS Tutor (Bronze and Silver)
   - Mountain Training - Hill Skills Tutor
   - Mountain Training - Camping Leader
   - Mountain Training - Mentor for Hillwalking and Climbing (HML, LL, CWI)
   - Mountain Training - Remote Supervision
-  - DofE Manager Pathway
-  - DofE Foundation Pathway
-  - The Delivering the DofE Pathway
 
 ### Climbing
   - Impact - Route Setting Essentials
@@ -73,6 +69,11 @@ permalink: /aqt/
   - Royal Yachting Association (RYA) Sailing Level 1
 
 ### Aditional Outdoor Qualfications and Training
+  - Institute of Outdoor Learning (IOL) - APIOL Registered
+  - DofE Award Verifier
+  - DofE Manager Pathway
+  - DofE Foundation Pathway
+  - DofE Delivering the DofE Pathway
   - Access Sport - Neurodivergence Inclusion in Archery Workshop
   - Cytech - Technical one - theory
   - NSRA - YPS Tutors Course
