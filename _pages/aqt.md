@@ -4,7 +4,7 @@ author_profile: true
 title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
-*This page was last updated 22/11/2025*
+*This page was last updated 16/12/2025*
 
 ## Training Provider For
   - National Navigation Award Scheme (NNAS)
@@ -75,6 +75,8 @@ permalink: /aqt/
   - DofE Foundation Pathway
   - DofE Delivering the DofE Pathway
   - Access Sport - Neurodivergence Inclusion in Archery Workshop
+  - Cytech - Cytech Certified - Level One
+  - Cytech - Technical One - Practical
   - Cytech - Technical one - theory
   - NSRA - YPS Tutors Course
   - Archery GB Instructor
@@ -102,6 +104,7 @@ permalink: /aqt/
   - Emergency First Response (EFR) Airborne Pathogen Awareness Instructor
 
 ### Health and Wellbeing
+  - MHFA England - Youth MHFA
   - Designated Safeguarding Lead (Level 3)
   - Allergy & Anaphylaxis Training for Schools
   - citizenAID Instructor
@@ -130,7 +133,7 @@ permalink: /aqt/
   - Bus/Coach (D+E) Driving Licence
   - Minibus+Trailer (D1+E) Driving Licence
 
-### Health, Safety and Management
+### Safety and Management
   - Food Hygiene Level 2 - Renewed March 2025
   - Level 3 HACCP Training
   - EDI Level 3 Certificate in Management Principles
@@ -145,6 +148,7 @@ permalink: /aqt/
   - The Royal Yahting Accociation (RYA) - Member
   - British Canoeing (BC) - Member
   - Institute of Outdoor Learning (IOL) - Member 14619
+  - Association of Mental Health First Aiders - Member
   - Society for Education and Training (SET) - Member (MSET) AD010790
   - Institute of Leadership (IOL) - Member (MIoL) 20056456 - Expired
   - Institution of Occupational Safety and Health (IOSH) - Techncal Member (TechIOSH) - 213136 - Expired
