@@ -20,8 +20,11 @@ permalink: /aqt_chron/
   
 ## QUALIFICATIONS
 ### 2025
+  - MHFA England - Youth MHFA
+  - Cytech - Cytech Certified - Level One
+  - Cytech - Technical One - Practical
   - Access Sport - Neurodivergence Inclusion in Archery Workshop
-  - Cytech - Technical one - theory
+  - Cytech - Technical One - theory
   - Impact - Route Setting Essentials
   - Designated Safeguarding Lead (Level 3)
   - Allergy & Anaphylaxis Training for Schools
