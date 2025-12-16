@@ -156,9 +156,14 @@ permalink: /aqt_chron/
     
 ## PROFESSIONAL ASSOCIATIONS
   - The British Mountaineering Council (BMC) - Member
-  - Mountain Training Association (MTA) - Full Member
-  - The Royal Yahting Accociation (RYA) - Full Member
-  - British Canoeing (BC) - Full Member
+  - Mountain Training Association (MTA) - Member
+  - The Royal Yahting Accociation (RYA) - Member
+  - British Canoeing (BC) - Member
+  - Institute of Outdoor Learning (IOL) - Member 14619
+  - Association of Mental Health First Aiders - Member
+  - Society for Education and Training (SET) - Member (MSET) AD010790
+  - Institute of Leadership (IOL) - Member (MIoL) 20056456 - Expired
+  - Institution of Occupational Safety and Health (IOSH) - Techncal Member (TechIOSH) - 213136 - Expired
     
 ## OPEN UNIVERSITY OPENLEARN COURSES
   OpenLearn Profile: [zx745920](http://www.open.edu/openlearn/profiles/zx745920)
