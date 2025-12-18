@@ -75,8 +75,7 @@ permalink: /aqt/
   - DofE Foundation Pathway
   - DofE Delivering the DofE Pathway
   - Access Sport - Neurodivergence Inclusion in Archery Workshop
-  - Cytech - Cytech Certified - Level One
-  - Cytech - Technical One - Practical
+  - Cytech - Technical One - Certified
   - Cytech - Technical one - theory
   - NSRA - YPS Tutors Course
   - Archery GB Instructor
