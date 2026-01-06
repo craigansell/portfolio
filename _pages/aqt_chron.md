@@ -20,6 +20,7 @@ permalink: /aqt_chron/
   
 ## QUALIFICATIONS
 ### 2025
+  - Mountain Training - Climbing Wall Development Instructor (CWDI)
   - MHFA England - Youth MHFA
   - Cytech - Technical One - Certified
   - Access Sport - Neurodivergence Inclusion in Archery Workshop
