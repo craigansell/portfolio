@@ -76,7 +76,6 @@ permalink: /aqt/
   - DofE Delivering the DofE Pathway
   - Access Sport - Neurodivergence Inclusion in Archery Workshop
   - Cytech - Technical One - Certified
-  - Cytech - Technical one - theory
   - NSRA - YPS Tutors Course
   - Archery GB Instructor
   - Wilderness Survival Crafts - 3 Day Bushcraft Competency Training
