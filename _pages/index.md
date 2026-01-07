@@ -19,16 +19,13 @@ Craig has been Involved in the outdoors industry for over 20 years, working in e
 - Highropes ERCA (+Rescue)
 - Mental Health First Aider
 - Outdoor First Aid
-- SEN and Aditional Needs Qualifications
+- Adaptable for all abilities (SEN and Disability) and inclusive experiences
 - Outdoor Activity Instructor Insurance
 - Full Enhanced DBS
-- Adaptable for all abilities (SEN and Disability) and inclusive experiences
 - Full Car, Motorcycle, HGV (C+E), Bus/Coach (D+E), Minibus+Trailer (D1+E) and Driver CPD
 - Society for Education and Training - Full Member (MSET)
 
-**Contact for freelance guiding or coaching work in hillwalking, climbing, navigation skills, Paddlesports, DofE training or assessing and driving work**
-
-To check my availability click [HERE](https://calendar.google.com/calendar/embed?src=d4cdaa71da9577fc4fd32c4db94600722522d867f8116abdf9a63b612f20e8f4%40group.calendar.google.com&ctz=Europe%2FLondon) (opens up Google Calender)
+**Contact for freelance guiding or coaching work**
 
 Email: <a href="mailto:craig.ansell@gmail.com">craig.ansell@gmail.com</a>
 
