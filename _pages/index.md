@@ -17,6 +17,9 @@ Craig has been Involved in the outdoors industry for over 20 years, working in e
 - Archery GB
 - Bushcraft
 - Highropes ERCA (+Rescue)
+- Mental Health First Aider
+- Outdoor First Aid
+- SEN and Aditional Needs Qualifications
 - Outdoor Activity Instructor Insurance
 - Full Enhanced DBS
 - Adaptable for all abilities (SEN and Disability) and inclusive experiences
