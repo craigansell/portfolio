@@ -28,7 +28,7 @@ permalink: /aqt/
   - National Navigation Award Scheme - NNAS Tutor (Bronze and Silver)
   - Mountain Training - Hill Skills Tutor
   - Mountain Training - Camping Leader
-  - Mountain Training - Mentor for Hillwalking and Climbing (HML, LL, CWI)
+  - Mountain Training - Mentor for Hillwalking and Climbing (HML, LL)
   - Mountain Training - Remote Supervision
 
 ### Climbing
@@ -42,6 +42,7 @@ permalink: /aqt/
   - NICAS Tutor/Instructor
   - Mountain Training - Climbing Wall Instructor (CWI) + Abseil (CWIA)
   - Mountain Training - Rock Climbing Iinstructor (RCI) Training
+  - Mountain Training - Mentor for Hillwalking and Climbing (CWI)
   - ERCA - Generic Rescue
   - ERCA - Highropes Instructor
   - Inspection of PPE for Ropes Courses and Adventurous Industry
