@@ -4,7 +4,7 @@ author_profile: true
 title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
-*This page was last updated 16/12/2025*
+*This page was last updated 08/01/2026*
 
 ## Training Provider For
   - National Navigation Award Scheme (NNAS)
@@ -103,7 +103,8 @@ permalink: /aqt/
   - Emergency First Response (EFR) Airborne Pathogen Awareness Instructor
 
 ### Health and Wellbeing
-  - MHFA England - Youth MHFA
+  - MHFA England - Mental Health First Aider (MHFA)
+  - MHFA England - Youth Mental Health First Aider (MHFA)
   - Designated Safeguarding Lead (Level 3)
   - Allergy & Anaphylaxis Training for Schools
   - citizenAID Instructor
