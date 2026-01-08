@@ -19,9 +19,12 @@ permalink: /aqt_chron/
       - Airborne Pathagen Awareness
   
 ## QUALIFICATIONS
+### 2026
+  - MHFA England - Mental Health First Aider (MHFA)
+    
 ### 2025
   - Mountain Training - Climbing Wall Development Instructor (CWDI)
-  - MHFA England - Youth MHFA
+  - MHFA England - Youth Mental Health First Aider (MHFA)
   - Cytech - Technical One - Certified
   - Access Sport - Neurodivergence Inclusion in Archery Workshop
   - Cytech - Technical One - theory
