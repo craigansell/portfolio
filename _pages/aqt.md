@@ -103,8 +103,8 @@ permalink: /aqt/
   - Emergency First Response (EFR) Airborne Pathogen Awareness Instructor
 
 ### Health and Wellbeing
-  - MHFA England - Mental Health First Aider (MHFA)
-  - MHFA England - Youth Mental Health First Aider (MHFA)
+  - MHFA England - Mental Health First Aider (MHFAider)
+  - MHFA England - Youth Mental Health First Aider (MHFAider)
   - Designated Safeguarding Lead (Level 3)
   - Allergy & Anaphylaxis Training for Schools
   - citizenAID Instructor
