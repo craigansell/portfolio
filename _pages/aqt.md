@@ -105,17 +105,15 @@ permalink: /aqt/
 ### Health and Wellbeing
   - MHFA England - Mental Health First Aider (MHFAider)
   - MHFA England - Youth Mental Health First Aider (MHFAider)
-  - FAA Level 3 Award in Outdoor First Aid
+  - Nuco Training - FAA Level 3 Award in Outdoor First Aid
   - Designated Safeguarding Lead (Level 3)
   - Allergy & Anaphylaxis Training for Schools
   - citizenAID Instructor
   - Type 1 Diabetes Awareness in Secondary School
   - Type 1 Diabetes Awareness in Primary School
   - Community First Aid and the citizenAID® system
-  - First Aid at Work (FAW) with Catastrophic Bleeding Management
   - Youth Work Level 3
   - Mental Health Awareness for Sports and Physical Activity
-  - Safeguarding Children Level 3
   - EduCare Child Protection in Sport and Active Leisure Level 2
   - NSPCC Child Protection in Education
   - NSPCC Keeping Children Safe Certificate
@@ -156,7 +154,7 @@ permalink: /aqt/
     
 ## OPEN UNIVERSITY OPENLEARN COURSES
   OpenLearn Profile: [zx745920](http://www.open.edu/openlearn/profiles/zx745920)
-### 2020
+
   - Managing virtual project teams (Level 3)
   - Workplace learning with coaching and mentoring (Level 3)
   - Work and mental health (Level 2)
@@ -183,14 +181,10 @@ permalink: /aqt/
     
 ## COMPLETED OPEN WHO COURSES
   OpenWHO Website: [https://openwho.org](https://openwho.org)
-### 2022
-  - CBDE Awareness – Recognising Signs of Deliberate Release of Chemical or Biological Agents
 
-### 2021
+  - CBDE Awareness – Recognising Signs of Deliberate Release of Chemical or Biological Agents
   - Ready4Response Tier 2: Systems, structures and skills
   - Ready4Response Tier 1: Response context and principles
-
-### 2021
   - COVID-19 Mass Gatherings Risk Assessment Training
   - COVID-19: How to put on and remove personal protective equipment (PPE)
   - Infection Prevention and Control (IPC) for COVID-19 Virus
@@ -212,7 +206,7 @@ permalink: /aqt/
 - Radio Amateur Emergency Network (RAYNET) - Member
 - Staffordshire Emergency Planning - Member
 
-## Historical Training and Qualifications
+## Historical Various Training and Qualifications
 - St. John Ambulance - Ambulance Aid Level 2, Ambulance Driving, Medical Gasses Administrator, Patient Handling, Casualty Handling, First Aider, Walking Leader
 - The British Red Cross - Basic First Aid, Administer First Aid, Bodyworks, Automated External Deliberator,
 Outdoor First Aid
