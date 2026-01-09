@@ -25,7 +25,7 @@ Craig has been Involved in the outdoors industry for over 20 years, working in e
 - Full Car, Motorcycle, HGV (C+E), Bus/Coach (D+E), Minibus+Trailer (D1+E) and Driver CPD
 - Society for Education and Training - Full Member (MSET)
 
-**Contact for freelance guiding or coaching work**
+**Contact for climbing, hiking, guiding, coaching or freelance work**
 
 Email: <a href="mailto:craig.ansell@gmail.com">craig.ansell@gmail.com</a>
 
