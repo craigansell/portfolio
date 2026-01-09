@@ -18,7 +18,7 @@ Craig has been Involved in the outdoors industry for over 20 years, working in e
 - Bushcraft
 - Highropes ERCA (+Rescue)
 - Mental Health First Aider (MHFAider)
-- Outdoor First Aid
+- FAA Level 3 Award in Outdoor First Aid
 - Adaptable for all abilities (SEN and Disability) and inclusive experiences
 - Outdoor Activity Instructor Insurance
 - Full Enhanced DBS
