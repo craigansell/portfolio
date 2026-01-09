@@ -105,6 +105,7 @@ permalink: /aqt/
 ### Health and Wellbeing
   - MHFA England - Mental Health First Aider (MHFAider)
   - MHFA England - Youth Mental Health First Aider (MHFAider)
+  - FAA Level 3 Award in Outdoor First Aid
   - Designated Safeguarding Lead (Level 3)
   - Allergy & Anaphylaxis Training for Schools
   - citizenAID Instructor
