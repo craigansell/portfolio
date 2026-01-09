@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Craig Ansell"
   avatar           : "/assets/images/IMG_0350.png"
-  bio              : "Freelance Walking and Climbing Guide, Outdoor Education and Activity Instructor"
+  bio              : "Walking, Climbing, Coaching and Guiding, Outdoor Education and Activity Instructor"
   location         : "Staffordshire, England"
-  email            : # "craig.ansell@gmail.com"
+  email            : "craig.ansell@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
