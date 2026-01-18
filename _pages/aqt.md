@@ -82,6 +82,7 @@ permalink: /aqt/
   - Wilderness Survival Crafts - 3 Day Bushcraft Competency Training
   - British Caving - LCML Training
   - British Cycling - Mountain Bike Leader Training
+  - UK Coaching - Safer Sports Events
   - Entrust Outdoors - Axe Throwing (internal sign off)
   - NASAR SAR Technician Level 3
 
@@ -112,6 +113,7 @@ permalink: /aqt/
   - Type 1 Diabetes Awareness in Secondary School
   - Type 1 Diabetes Awareness in Primary School
   - Community First Aid and the citizenAID® system
+  - UK Coaching - Dutsy to Care - Digital Badge
   - Youth Work Level 3
   - Mental Health Awareness for Sports and Physical Activity
   - EduCare Child Protection in Sport and Active Leisure Level 2
