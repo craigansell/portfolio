@@ -20,6 +20,8 @@ permalink: /aqt_chron/
   
 ## QUALIFICATIONS
 ### 2026
+  - UK Coaching - Duty to Care - Digital Badge
+  - UK Coaching - Safer Sports Events
   - MHFA England - Mental Health First Aider (MHFAider)
     
 ### 2025
