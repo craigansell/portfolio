@@ -22,6 +22,7 @@ permalink: /aqt_chron/
 ### 2026
   - UK Coaching - Duty to Care - Digital Badge
   - UK Coaching - Safer Sports Events
+  - Leading in Nature - Practical Mental Health Skills for Outdoor Leaders
   - MHFA England - Mental Health First Aider (MHFAider)
     
 ### 2025
