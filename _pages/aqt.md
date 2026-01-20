@@ -104,6 +104,7 @@ permalink: /aqt/
   - Emergency First Response (EFR) Airborne Pathogen Awareness Instructor
 
 ### Health and Wellbeing
+  - Leading in Nature - Practical Mental Health Skills for Outdoor Leaders
   - MHFA England - Mental Health First Aider (MHFAider)
   - MHFA England - Youth Mental Health First Aider (MHFAider)
   - Nuco Training - FAA Level 3 Award in Outdoor First Aid
