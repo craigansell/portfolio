@@ -87,6 +87,7 @@ permalink: /aqt/
   - NASAR SAR Technician Level 3
 
 ### Teaching
+  - Google - Certified Educator Level 1
   - Mountain Training - How to create an Inclusive, Welcoming Environment for All Learners
   - Mountain Training - Making your Courses Inclusive and Accessible
   - Mountain Training - Mentor Training Program
