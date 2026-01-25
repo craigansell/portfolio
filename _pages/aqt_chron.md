@@ -20,6 +20,7 @@ permalink: /aqt_chron/
   
 ## QUALIFICATIONS
 ### 2026
+  - Google - Certified Educator Level 2
   - Google - Certified Educator Level 1
   - UK Coaching - Duty to Care - Digital Badge
   - UK Coaching - Safer Sports Events
