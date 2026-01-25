@@ -4,7 +4,7 @@ author_profile: true
 title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
-*This page was last updated 24/01/2026*
+*This page was last updated 25/01/2026*
 
 ## Training Provider For
   - National Navigation Award Scheme (NNAS)
@@ -87,6 +87,7 @@ permalink: /aqt/
   - NASAR SAR Technician Level 3
 
 ### Teaching
+  - Google - Certified Educator Level 2
   - Google - Certified Educator Level 1
   - Mountain Training - How to create an Inclusive, Welcoming Environment for All Learners
   - Mountain Training - Making your Courses Inclusive and Accessible
