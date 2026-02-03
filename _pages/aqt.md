@@ -106,7 +106,7 @@ permalink: /aqt/
   - Emergency First Response (EFR) Airborne Pathogen Awareness Instructor
 
 ### Health and Wellbeing
-  - TeamTeach - Positive Behaviour Training Level 1
+  - Team Teach - Positive Behaviour Training Level 1
   - Leading in Nature - Practical Mental Health Skills for Outdoor Leaders
   - MHFA England - Mental Health First Aider (MHFAider)
   - MHFA England - Youth Mental Health First Aider (MHFAider)
