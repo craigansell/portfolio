@@ -20,7 +20,7 @@ permalink: /aqt_chron/
   
 ## QUALIFICATIONS
 ### 2026
-  - TeamTeach - Positive Behaviour Training Level 1
+  - Team Teach - Positive Behaviour Training Level 1
   - Google - Certified Educator Level 2
   - Google - Certified Educator Level 1
   - UK Coaching - Duty to Care - Digital Badge
