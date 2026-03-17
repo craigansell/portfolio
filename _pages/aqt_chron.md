@@ -20,7 +20,7 @@ permalink: /aqt_chron/
   
 ## QUALIFICATIONS
 ### 2026
-  - Active Sport - Empowering Young Neurodivergent Archers - Archery GB
+  - Access Sport - Empowering Young Neurodivergent Archers - Archery GB
   - Team Teach - Positive Behaviour Training Level 1
   - Google - Certified Educator Level 2
   - Google - Certified Educator Level 1
