@@ -172,7 +172,7 @@ permalink: /aqt_chron/
   - British Canoeing (BC) - Member
   - Institute of Outdoor Learning (IOL) - Member 14619
   - Association of Mental Health First Aiders - Member
-  - Society for Education and Training (SET) - Member (MSET) AD010790
+  - Education Training Foundation (ETF) - Member (MSET) AD010790
   - Institute of Leadership (IOL) - Member (MIoL) 20056456 - Expired
   - Institution of Occupational Safety and Health (IOSH) - Techncal Member (TechIOSH) - 213136 - Expired
     
