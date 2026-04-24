@@ -43,6 +43,7 @@ permalink: /aqt_chron/
   - Type 1 Diabetes Awareness in Secondary School
   - Type 1 Diabetes Awareness in Primary School
   - Community First Aid and the citizenAID® system
+  - Level 2 Food Safety and Hygiene for Catering
   - NSRA - YPS Tutors Course
   - RidgeGear - Adventure PPE Inspector
   - Special Educational Needs Coordination (SENCO) @ Level 5
