@@ -4,7 +4,7 @@ author_profile: true
 title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
-*This page was last updated 30/04/2026*
+*This page was last updated 04/05/2026*
 
 ## Training Provider For
   - National Navigation Award Scheme (NNAS)
@@ -107,6 +107,7 @@ permalink: /aqt/
   - Emergency First Response (EFR) Airborne Pathogen Awareness Instructor
 
 ### Health and Wellbeing
+  - Challenging Behaviour Training
   - Moving and Handling People in Health and Social Care
   - Team Teach - Positive Behaviour Training Level 1
   - Leading in Nature - Practical Mental Health Skills for Outdoor Leaders
