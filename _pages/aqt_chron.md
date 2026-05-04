@@ -20,6 +20,7 @@ permalink: /aqt_chron/
   
 ## QUALIFICATIONS
 ### 2026
+  - Challenging Behaviour Training
   - Moving and Handling People in Health and Social Care
   - Access Sport - Empowering Young Neurodivergent Archers - Archery GB
   - Team Teach - Positive Behaviour Training Level 1
