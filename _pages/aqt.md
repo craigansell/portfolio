@@ -4,7 +4,7 @@ author_profile: true
 title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
-*This page was last updated 23/05/2026*
+*This page was last updated 26/05/2026*
 
 ## Training Provider For
   - National Navigation Award Scheme (NNAS)
@@ -70,6 +70,7 @@ permalink: /aqt/
   - Royal Yachting Association (RYA) Sailing Level 1
 
 ### Aditional Outdoor Qualfications and Training
+  - 2026 Archery Instructor Competency Check | Instructor
   - Institute of Outdoor Learning (IOL) - APIOL Registered
   - DofE Award Verifier
   - DofE Manager Pathway
