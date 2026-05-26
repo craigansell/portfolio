@@ -20,6 +20,7 @@ permalink: /aqt_chron/
   
 ## QUALIFICATIONS
 ### 2026
+  - Archery Instructor Competency Check | Instructor
   - Royal College of Nursing (RCN) - Diabeties Tecnoloogy
   - Challenging Behaviour Training
   - Moving and Handling People in Health and Social Care
