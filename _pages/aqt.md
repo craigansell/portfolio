@@ -15,11 +15,11 @@ permalink: /aqt/
     - Paddle Start
     - Paddle Discover
   - Emergency First Response (PADI)
-      - Primary Care / Secondary Care
-      - Care for Children
+      - Primary Care / Secondary Care (EFR First Aid)
+      - Care for Children (EFR Paediatric First Aid)
       - Airborne Pathagen Awareness
-   - citizenAID
-      - Instructor
+  - citizenAID
+  - Mini Medics
   
 ## QUALIFICATIONS
 ### Walking
