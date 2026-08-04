@@ -30,4 +30,4 @@ Craig has been Involved in the outdoors industry for over 20 years, working in e
 
 Email: <a href="mailto:craig.ansell@gmail.com">craig.ansell@gmail.com</a>
 
-Additional Qualifications, Certificates and Training can be seen by clicking the link at the top of the page or by clicking [HERE](/aqt/) for Chronological order click [HERE](/aqt_chron)
+Additional Qualifications, Certificates and Training can be seen by clicking the link at the top of the page or by clicking [HERE](/aqt/) or for chronological order click [HERE](/aqt_chron)
