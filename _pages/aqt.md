@@ -4,7 +4,7 @@ author_profile: true
 title: Aditional Qualifications and Training
 permalink: /aqt/
 ---
-*This page was last updated 26/05/2026*
+*This page was last updated 04/08/2026*
 
 ## Training Provider For
   - National Navigation Award Scheme (NNAS)
@@ -43,8 +43,11 @@ permalink: /aqt/
   - Mountain Training - Climbing Wall Instructor (CWI) + Abseil (CWIA)
   - Mountain Training - Rock Climbing Iinstructor (RCI) Training
   - Mountain Training - Mentor for Climbing (CWI)
-  - ERCA - Generic Rescue
-  - ERCA - Highropes Instructor
+  - ERCA High Ropes Course Instructor
+  - ERCA Rescuer Core Module
+  - ERCA Rescuer for Active Rescue (inc IKAR)
+  - ERCA Rescuer for Passive Rescues
+  - ERCA Site Specific Instructor (Entrust Outdoors Powerfan & Zip Wire)
   - Inspection of PPE for Ropes Courses and Adventurous Industry
   - Operational Inspection and Maintenance Course (HighRopes)
   - RidgeGear - Adventure PPE Inspector
@@ -119,10 +122,11 @@ permalink: /aqt/
   - Designated Safeguarding Lead (Level 3)
   - Allergy & Anaphylaxis Training for Schools
   - citizenAID Instructor
+  - MiniMedics
   - Type 1 Diabetes Awareness in Secondary School
   - Type 1 Diabetes Awareness in Primary School
   - Community First Aid and the citizenAID® system
-  - UK Coaching - Dutsy to Care - Digital Badge
+  - UK Coaching - Duty to Care - Digital Badge
   - Youth Work Level 3
   - Mental Health Awareness for Sports and Physical Activity
   - EduCare Child Protection in Sport and Active Leisure Level 2
