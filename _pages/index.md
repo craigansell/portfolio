@@ -19,6 +19,7 @@ Craig has been Involved in the outdoors industry for over 20 years, working in e
 - Highropes ERCA (+Rescue)
 - Mental Health First Aider (MHFAider)
 - FAA Level 3 Award in Outdoor First Aid
+- CitizenAID & MiniMedics Instructor
 - Adaptable for all abilities (SEN and Disability) and inclusive experiences
 - Outdoor Activity Instructor Insurance
 - Full Enhanced DBS
@@ -29,4 +30,4 @@ Craig has been Involved in the outdoors industry for over 20 years, working in e
 
 Email: <a href="mailto:craig.ansell@gmail.com">craig.ansell@gmail.com</a>
 
-Aditional Qualifications, Certificates and Training can be seen by clicking the link at the top of the page or by clicking [HERE](/aqt/)
+Additional Qualifications, Certificates and Training can be seen by clicking the link at the top of the page or by clicking [HERE](/aqt/) for Chronological order click [HERE](/aqt_chron)
