@@ -28,7 +28,7 @@ permalink: /aqt_chron/
   - ERCA Rescuer for Passive Rescues
   - ERCA Site Specific Instructor (Entrust Outdoors Powerfan & Zip Wire)
   - Mini Medics - Instructor
-  - Archery Instructor Competency Check | Instructor
+  - Archery Instructor Competency Check
   - Royal College of Nursing (RCN) - Diabeties Tecnoloogy
   - Challenging Behaviour Training
   - Moving and Handling People in Health and Social Care
