@@ -18,7 +18,7 @@ permalink: /aqt/
       - Primary Care / Secondary Care (EFR First Aid)
       - Care for Children (EFR Paediatric First Aid)
       - Airborne Pathagen Awareness
-  - citizenAID
+  - CitizenAID
   - Mini Medics
   
 ## QUALIFICATIONS
@@ -121,8 +121,8 @@ permalink: /aqt/
   - Nuco Training - FAA Level 3 Award in Outdoor First Aid
   - Designated Safeguarding Lead (Level 3)
   - Allergy & Anaphylaxis Training for Schools
-  - citizenAID Instructor
-  - MiniMedics
+  - CitizenAID Instructor
+  - MiniMedics Instructor
   - Type 1 Diabetes Awareness in Secondary School
   - Type 1 Diabetes Awareness in Primary School
   - Community First Aid and the citizenAID® system
