@@ -16,10 +16,18 @@ permalink: /aqt_chron/
   - Emergency First Response
       - Primary Care / Secondary Care
       - Care for Children
-      - Airborne Pathagen Awareness
+      - Airborne Pathogen Awareness
+  - CitizenAID
+  - MiniMedics
   
 ## QUALIFICATIONS
 ### 2026
+  - ERCA High Ropes Course Instructor
+  - ERCA Rescuer Core Module
+  - ERCA Rescuer for Active Rescue (inc IKAR)
+  - ERCA Rescuer for Passive Rescues
+  - ERCA Site Specific Instructor (Entrust Outdoors Powerfan & Zip Wire)
+  - Mini Medics - Instructor
   - Archery Instructor Competency Check | Instructor
   - Royal College of Nursing (RCN) - Diabeties Tecnoloogy
   - Challenging Behaviour Training
@@ -43,7 +51,7 @@ permalink: /aqt_chron/
   - Impact - Route Setting Essentials
   - Designated Safeguarding Lead (Level 3)
   - Allergy & Anaphylaxis Training for Schools
-  - citizenAID Instructor
+  - CitizenAID Instructor
   - Type 1 Diabetes Awareness in Secondary School
   - Type 1 Diabetes Awareness in Primary School
   - Community First Aid and the citizenAID® system
