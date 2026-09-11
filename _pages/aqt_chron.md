@@ -58,7 +58,7 @@ permalink: /aqt_chron/
   - Level 2 Food Safety and Hygiene for Catering
   - NSRA - YPS Tutors Course
   - RidgeGear - Adventure PPE Inspector
-  - Special Educational Needs Coordination (SENCO) @ Level 5
+  - Special Educational Needs Coordinator (SENCO) @ Level 5
   - Makaton Level 1
   - DofE Manager Pathway
   - The DofE Foundation Pathway
