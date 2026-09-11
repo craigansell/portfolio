@@ -97,7 +97,7 @@ permalink: /aqt/
   - Mountain Training - How to create an Inclusive, Welcoming Environment for All Learners
   - Mountain Training - Making your Courses Inclusive and Accessible
   - Mountain Training - Mentor Training Program
-  - Special Educational Needs Coordination (SENCO) @ Level 5
+  - Special Educational Needs Coordinator (SENCO) @ Level 5
   - The Complete SEND Diploma (Levels 2, 3 & 4)
   - Level 3 Diploma in Mentoring
   - Makaton level 1
