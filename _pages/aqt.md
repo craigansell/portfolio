@@ -162,10 +162,10 @@ permalink: /aqt/
   - The Royal Yahting Accociation (RYA) - Member
   - British Canoeing (BC) - Member
   - Institute of Outdoor Learning (IOL) - Member 14619
-  - Association of Mental Health First Aiders - Member
+  - Institution of Occupational Safety and Health (IOSH) - Technical Member (TechIOSH) - 213136
   - Education Training Foundation (ETF) - Member (MSET) AD010790
   - Institute of Leadership (IOL) - Member (MIoL) 30014535
-  - Institution of Occupational Safety and Health (IOSH) - Techncal Member (TechIOSH) - 213136 - Expired
+  - Association of Mental Health First Aiders - Member
     
 ## OPEN UNIVERSITY OPENLEARN COURSES
   OpenLearn Profile: [zx745920](http://www.open.edu/openlearn/profiles/zx745920)
