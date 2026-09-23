@@ -24,6 +24,7 @@ Craig has been Involved in the outdoors industry for over 20 years, working in e
 - Outdoor Activity Instructor Insurance
 - Full Enhanced DBS
 - Full Car, Motorcycle, HGV (C+E), Bus/Coach (D+E), Minibus+Trailer (D1+E) and Driver CPD
+- Institution of Occupational Safety and Health (IOSH) - Technical Member (TechIOSH)
 - Society for Education and Training - Member (MSET)
 - Institute of Leadership - Member (MIoL)
 
